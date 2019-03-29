@@ -2,45 +2,36 @@
     "name":"Root",
     "children":[
         {
-            "Function":"CMO",
-            "Name":"Elias Pour",
+            "name":"CMO",
             "children":[
                 {
-                    "Function":"GROWTH",
-                    "Name":"Jo Bjordal",
+                    "name":"GROWTH",
                     "children":[
                         {
-                            "Function":"GROWTH",
-                            "Name":"",
+                            "name":"GROWTH",
                             "children":[
                                 {
-                                    "Function":"PERFORMANCE MARKETING",
-                                    "Name":"Eric Wee",
+                                    "name":"PERFORMANCE MARKETING",
                                     "children":[
                                         {
-                                            "Function":"MY / SG / HK",
-                                            "Name":"Pei Fun (Lead)"
+                                            "name":"MY / SG / HK"
                                         },
                                         {
-                                            "Function":"PH / TW",
-                                            "Name":"Aaron Ting (Lead)"
-                                        },{
-                                            "Function":"ID",
-                                            "Name":"Marini (Lead)"
+                                            "name":"PH / TW"
+                                        },
+                                        {
+                                            "name":"ID"
                                         }
                                     ]    
                                 },
                                 {
-                                    "Function":"SEO",
-                                    "Name":""
+                                    "name":"SEO"
                                 },
                                 {
-                                    "Function":"AFFILIATES",
-                                    "Name":""
+                                    "name":"AFFILIATES"
                                 },
                                 {
-                                    "Function":"OPTIMISATION",
-                                    "Name":""
+                                    "name":"OPTIMISATION"
                                 }
                             ]
                         },
@@ -81,16 +72,13 @@
                     ]
                 },
                 {
-                 "Function":"CONSUMER INSIGHTS & ANALYTICS",
-                    "Name":"Tee Yanven",
+                    "name":"CONSUMER INSIGHTS & ANALYTICS",
                     "children":[
                         {
-                            "Function":"INSIGHTS",
-                            "Name":""
+                            "name":"INSIGHTS"
                         },
                         {
-                            "Function":"ANALYTICS",
-                            "Name":""
+                            "name":"ANALYTICS"
                         }
                     ]
                 }   
