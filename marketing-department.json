@@ -1,88 +1,211 @@
 {
-    "name":"Root",
-    "children":[
+    "name": "CMO",
+    "children": [
         {
-            "name":"CMO",
-            "children":[
+            "name": "GROWTH",
+            "children": [
                 {
-                    "name":"GROWTH",
-                    "children":[
+                    "name": "GROWTH",
+                    "children": [
                         {
-                            "name":"GROWTH",
-                            "children":[
+                            "name": "PERFORMANCE MARKETING",
+                            "children": [
                                 {
-                                    "name":"PERFORMANCE MARKETING",
-                                    "children":[
-                                        {
-                                            "name":"MY / SG / HK"
-                                        },
-                                        {
-                                            "name":"PH / TW"
-                                        },
-                                        {
-                                            "name":"ID"
-                                        }
-                                    ]    
+                                    "name": "MY / SG / HK"
                                 },
                                 {
-                                    "name":"SEO"
+                                    "name": "PH / TW"
                                 },
                                 {
-                                    "name":"AFFILIATES"
-                                },
-                                {
-                                    "name":"OPTIMISATION"
+                                    "name": "ID"
                                 }
                             ]
                         },
                         {
-                            "name":"CRM",
-                            "children":[
-                                {
-                                    "name":"Blouses"
-                                },
-                                {
-                                    "name":"T-Shirts"
-                                },
-                                {
-                                    "name":"Sleeveless"
-                                },
-                                {
-                                    "name":"Shirts"
-                                }
-                            ]
+                            "name": "SEO"
                         },
                         {
-                            "name":"CAMPAIGNS",
-                            "children":[
-                                {
-                                    "name":"Mini Skirts"
-                                },
-                                {
-                                    "name":"Midi Skirts"
-                                },
-                                {
-                                    "name":"Maxi Skirts"
-                                },
-                                {
-                                    "name":"Pencil Skirts"
-                                }
-                            ]
+                            "name": "AFFILIATES"
+                        },
+                        {
+                            "name": "OPTIMISATION"
                         }
                     ]
                 },
                 {
-                    "name":"CONSUMER INSIGHTS & ANALYTICS",
-                    "children":[
+                    "name": "CRM",
+                    "children": [
                         {
-                            "name":"INSIGHTS"
+                            "name": "NL REGIONAL"
                         },
                         {
-                            "name":"ANALYTICS"
+                            "name": "DATA & SYSTEMS"
+                        },
+                        {
+                            "name": "ANALYTICS"
+                        },
+                        {
+                            "name": "PERSONALISATION"
+                        },
+                        {
+                            "name": "LIFECYCLE"
+                        },
+                        {
+                            "name": "TRANSACTIONAL"
                         }
                     ]
-                }   
+                },
+                {
+                    "name": "CAMPAIGNS",
+                    "children": [
+                        {
+                            "name": "CAMPAIGNS"
+                        },
+                        {
+                            "name": "ONSITE"
+                        },
+                        {
+                            "name": "NL CAMPAIGNS"
+                        },
+                        {
+                            "name": "ANALYTICS"
+                        },
+                        {
+                            "name": "GRAPHIC DESIGNERS"
+                        },
+                        {
+                            "name": "COPY WRITERS"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CONSUMER INSIGHTS & ANALYTICS",
+            "children": [
+                {
+                    "name": "INSIGHTS"
+                },
+                {
+                    "name": "ANALYTICS"
+                }
+            ]
+        },
+        {
+            "name": "MARKETING OPERATIONS",
+            "children": [
+                {
+                    "name": "PROCESS IMPROVEMENT & GOVERNANCE"
+                }
+            ]
+        },
+        {
+            "name": "BRAND MARKETING",
+            "children": [
+                {
+                    "name": "BRAND COMMUNICATIONS",
+                    "children": [
+                        {
+                            "name": "PUBLIC RELATIONS"
+                        },
+                        {
+                            "name": "SOCIAL MEDIA"
+                        },
+                        {
+                            "name": "INFLUENCER MARKETING"
+                        },
+                        {
+                            "name": "CORPORATE STRATEGY"
+                        },
+                        {
+                            "name": "MAGAZINE"
+                        }
+                    ]
+                },
+                {
+                    "name": "BRAND PARTNERSHIPS",
+                    "children": [
+                        {
+                            "name": "ADVERTISING"
+                        },
+                        {
+                            "name": "PARTNERSHIPS"
+                        }
+                    ]
+                },
+                {
+                    "name": "BRAND CREATIVES",
+                    "children": [
+                        {
+                            "name": "STYLING"
+                        },
+                        {
+                            "name": "CREATIVE PRODUCTION"
+                        },
+                        {
+                            "name": "ART DIRECTION"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "INDONESIA",
+            "children": [
+                {
+                    "name": "CAMPAIGNS"
+                },
+                {
+                    "name": "CREATIVE"
+                },
+                {
+                    "name": "CRM"
+                },
+                {
+                    "name": "ONSITE"
+                },
+                {
+                    "name": "PRSM"
+                },
+                {
+                    "name": "SEO / MAGAZINE"
+                },
+                {
+                    "name": "PARTNERSHIPS"
+                },
+                {
+                    "name": "PROJECT MANAGEMENT OFFICE"
+                }
+            ]
+        },
+        {
+            "name": "PHILIPPINES",
+            "children": [
+                {
+                    "name": "CAMPAIGNS"
+                },
+                {
+                    "name": "CREATIVE"
+                },
+                {
+                    "name": "CRM"
+                },
+                {
+                    "name": "ONSITE"
+                },
+                {
+                    "name": "PRSM"
+                },
+                {
+                    "name": "SEO / MAGAZINE"
+                },
+                {
+                    "name": "PARTNERSHIPS"
+                },
+                {
+                    "name": "ANALYTICS"
+                }
             ]
         }
     ]
-}     
+}
