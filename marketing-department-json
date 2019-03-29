@@ -1,0 +1,101 @@
+{
+    "name":"Root",
+    "children":[
+        {
+            "Function":"CMO",
+            "Name":"Elias Pour",
+            "children":[
+                {
+                    "Function":"GROWTH",
+                    "Name":"Jo Bjordal",
+                    "children":[
+                        {
+                            "Function":"GROWTH",
+                            "Name":"",
+                            "children":[
+                                {
+                                    "Function":"PERFORMANCE MARKETING",
+                                    "Name":"Eric Wee",
+                                    "children":[
+                                        {
+                                            "Function":"MY / SG / HK",
+                                            "Name":"Pei Fun (Lead)",
+                                            "Name":"Mayuri (Lead)"
+                                        },
+                                        {
+                                            "Function":"PH / TW",
+                                            "Name":"Aaron Ting (Lead)"
+                                        },{
+                                            "Function":"ID",
+                                            "Name":"Marini (Lead)"
+                                        },
+                                    ]    
+                                },
+                                {
+                                    "Function":"SEO",
+                                    "Name":""
+                                },
+                                {
+                                    "Function":"AFFILIATES",
+                                    "Name":""
+                                },
+                                {
+                                    "Function":"OPTIMISATION",
+                                    "Name":""
+                                }
+                            ]
+                        },
+                        {
+                            "name":"CRM",
+                            "children":[
+                                {
+                                    "name":"Blouses"
+                                },
+                                {
+                                    "name":"T-Shirts"
+                                },
+                                {
+                                    "name":"Sleeveless"
+                                },
+                                {
+                                    "name":"Shirts"
+                                }
+                            ]
+                        },
+                        {
+                            "name":"CAMPAIGNS",
+                            "children":[
+                                {
+                                    "name":"Mini Skirts"
+                                },
+                                {
+                                    "name":"Midi Skirts"
+                                },
+                                {
+                                    "name":"Maxi Skirts"
+                                },
+                                {
+                                    "name":"Pencil Skirts"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                 "Function":"CONSUMER INSIGHTS & ANALYTICS",
+                    "Name":"Tee Yanven",
+                    "children":[
+                        {
+                            "Function":"INSIGHTS",
+                            "Name":""
+                        },
+                        {
+                            "Function":"ANALYTICS",
+                            "Name":""
+                        }
+                    ]
+                }   
+            ]
+        }
+    ]
+}     
