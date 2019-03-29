@@ -47,7 +47,7 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.json("marketing-department-json.json", function(error, categories) {
+d3.json("marketing-department.json", function(error, categories) {
   if (error) throw error;
 
   root = categories;
